@@ -44,3 +44,11 @@ body{
 .house:hover{
     background-color: slategray;
 }
+.title{
+    position: relative;
+    left: 50%;
+    color: lavenderblush;
+    font-size: 32px;
+    
+
+}
